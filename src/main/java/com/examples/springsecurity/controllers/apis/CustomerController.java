@@ -1,4 +1,4 @@
-package com.examples.springsecurity.controllers;
+package com.examples.springsecurity.controllers.apis;
 
 import com.examples.springsecurity.models.Customer;
 import com.examples.springsecurity.repos.CustomerRepo;
